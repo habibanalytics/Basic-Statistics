@@ -7,9 +7,9 @@ Topics From first week/module
 * [Levels of Measurement]()
 * [Presenting data by means of Tables and Graphs]()
 * [Measures of Central Tendency]()
-> [Mode, Median and Mean]()
-> [Dispersion Range, Interquartile Range]()
-> [Variance and Standard Deviation]()
+  * [Mode, Median and Mean]()
+  * [Dispersion Range, Interquartile Range]()
+  * [Variance and Standard Deviation]()
 * [Z-Scores]()
 
 In this module they only discussed situations of univariate analysis.
