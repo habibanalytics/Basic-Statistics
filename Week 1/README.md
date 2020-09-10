@@ -1,15 +1,16 @@
+# Week 1 / Module 1
 In this first week or module, they introduced the basic concepts of descriptive statistics.
 
 Topics From first week/module
-* cases and variables
-* data matrix
-* levels of measurement
-* presenting data by means of tables and graphs
-* measures of central tendency
-..* mode, median and mean
-..* dispersion range, interquartile range
-..* variance and standard deviation
-* z-scores. 
+* [Cases and Variables]()
+* [Data Matrix]()
+* [Levels of Measurement]()
+* [Presenting data by means of Tables and Graphs]()
+* [Measures of Central Tendency]()
+..* [Mode, Median and Mean]()
+..* [Dispersion Range, Interquartile Range]()
+..* [Variance and Standard Deviation]()
+* [Z-Scores]()
 
 In this module they only discussed situations of univariate analysis.
 
