@@ -5,9 +5,9 @@ Topics From first week/module
 * [Cases and Variables]()
 * [Data Matrix]()
 * [Levels of Measurement]()
- * [Categorical Variable]()
-   *  . Norminal
-   *  . Ordinal
+  * [Categorical Variable]()
+    * Norminal
+    * Ordinal
  * [Quantitative Variable]()
 * [Presenting data by means of Tables and Graphs]()
 * [Measures of Central Tendency]()
