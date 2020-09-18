@@ -1,5 +1,5 @@
 # Week 1 / Module 1
-In this first week or module, they introduced the basic concepts of descriptive statistics.
+In this first week or module, they introduced the basic concepts of **descriptive statistics**.
 
 Topics From first week/module
 * [Cases and Variables]()
@@ -9,6 +9,7 @@ Topics From first week/module
     * [Norminal]()
     * [Ordinal]()
   * [Quantitative Variable]()
+  * Discrete and Continuous Variables
     * [Interval]()
     * [Ratio]()
 * [Presenting data by means of Tables and Graphs]()
