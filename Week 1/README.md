@@ -2,6 +2,7 @@
 In this first week or module, they introduced the basic concepts of **descriptive statistics**.
 
 Topics From first week/module
+
 [Cases, variables and levels of measurement](https://github.com/habibanalytics/Basic-Statistics/blob/master/Week%201/Cases,%20variables%20and%20levels%20of%20measurement.md)
 * Cases and Variables
 * Levels of Measurement
@@ -11,6 +12,7 @@ Topics From first week/module
   * Quantitative Variable
     * Interval
     * Ratio
+
 [Data matrix and frequency table](https://github.com/habibanalytics/Basic-Statistics/blob/master/Week%201/Data%20matrix%20and%20frequency%20table.md)
 * Data Matrix
   * Observations
