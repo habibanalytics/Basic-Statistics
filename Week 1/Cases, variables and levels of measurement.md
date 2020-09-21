@@ -9,6 +9,8 @@ Player characteristics are variables. The players themselves are cases. If we wa
 
 # levels of measurement
 there are many different kinds of variables
+
+[Youtube video](https://www.youtube.com/watch?v=hZxnzfnt5v8&ab_channel=DrNic%27sMathsandStats)
 ## categorical variables.
 ### nominal level.
 A nominal variable is made up of various categories that 
@@ -25,7 +27,7 @@ The gender of the football players or the city the football teams come from
 **Example**: How much the number one was better than the number two.
 
 ## quantitative variables
-
+(They can be Discrete or continuous values)
 ### Interval level.
 * Differ from each other
 * There is an order
