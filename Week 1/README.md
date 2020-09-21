@@ -2,22 +2,29 @@
 In this first week or module, they introduced the basic concepts of **descriptive statistics**.
 
 Topics From first week/module
-* [Cases and Variables]()
-* [Data Matrix]()
-* [Levels of Measurement]()
-  * [Categorical Variable]()
-    * [Norminal]()
-    * [Ordinal]()
-  * [Quantitative Variable]()
-  * Discrete and Continuous Variables
-    * [Interval]()
-    * [Ratio]()
-* [Presenting data by means of Tables and Graphs]()
-* [Measures of Central Tendency]()
-  * [Mode, Median and Mean]()
-  * [Dispersion Range, Interquartile Range]()
-  * [Variance and Standard Deviation]()
-* [Z-Scores]()
+[Cases, variables and levels of measurement](https://github.com/habibanalytics/Basic-Statistics/blob/master/Week%201/Cases,%20variables%20and%20levels%20of%20measurement.md)
+* Cases and Variables
+* Levels of Measurement
+  * Categorical Variable
+    * Norminal
+    * Ordinal
+  * Quantitative Variable
+    * Interval
+    * Ratio
+[Data matrix and frequency table](https://github.com/habibanalytics/Basic-Statistics/blob/master/Week%201/Data%20matrix%20and%20frequency%20table.md)
+* Data Matrix
+  * Observations
+  * Summary of data
+    * For Categorical variables
+      * Frequency
+      * Relative Frequency
+      * Cumulative Percentage
+    * For Quantitative variables
+      * Intervals (Ordinal Categories)
+
+    
+
+
 
 In this module they only discussed situations of univariate analysis.
 
