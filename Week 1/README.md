@@ -31,4 +31,3 @@ Topics From first week/module
 In this module they only discussed situations of univariate analysis.
 
 In the next module we will also introduce studies in which more variables are involved.
-
